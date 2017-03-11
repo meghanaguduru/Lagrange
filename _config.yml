@@ -1,6 +1,6 @@
 # Site Settings
-title:               Lagrange
-tagline:             a minimalist Jekyll theme
+title:               Meghana Reddy Guduru
+tagline:             a geek at heart
 description:
 baseurl:            #"/Lagrange"
 url:                #"https://lenpaul.github.io"
@@ -9,11 +9,11 @@ github:
 author:
   name:              "Meghana Reddy Guduru"
   email:             "mreddygu@andrew.cmu.edu"
-  twitter:           "paululele"
+  twitter:           "meghana734"
   instagram:         "paululele"
-  github:            "lenpaul"
-  facebook:          "Le.Paul.94"
-  linkedin:          "lenpaul"
+  github:            "meghanaguduru"
+  facebook:          "meghanakgp"
+  linkedin:          "meghanaguduru"
 navigation:
 - title: About
   url: /about
