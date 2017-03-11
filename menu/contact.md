@@ -2,5 +2,5 @@
 layout: page
 title: Contact
 ---
-Feel free to contact me by dropping an e-mail at :
+Feel free to contact me by dropping an e-mail at : <br/>
 mreddygu [at] andrew [dot] cmu [dot] edu
