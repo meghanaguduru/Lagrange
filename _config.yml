@@ -1,5 +1,5 @@
 # Site Settings
-title:               Meghana Reddy Guduru
+title:               Meghana Reddy
 tagline:             a geek at heart
 description:
 baseurl:            #"/Lagrange"
@@ -7,7 +7,7 @@ url:                #"https://lenpaul.github.io"
 github:
   url:               #"https://lenpaul.github.io/Lagrange"
 author:
-  name:              "Meghana Reddy Guduru"
+  name:              "Meghana Reddy"
   email:             "mreddygu@andrew.cmu.edu"
   twitter:           "meghana734"
   instagram:         "paululele"
