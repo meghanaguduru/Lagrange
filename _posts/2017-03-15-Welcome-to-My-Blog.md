@@ -4,8 +4,8 @@ title: "Welcome to my blog!"
 categories: journal
 tags: [documentation,sample]
 image:
-  feature: mountains.jpg
-  teaser: mountains-teaser.jpg
+  feature: creative-brain.jpg
+  teaser: creative-brain.jpg
   credit: Death to Stock Photo
   creditlink: ""
 ---
