@@ -10,10 +10,14 @@ image:
   creditlink: ""
 ---
 
-This is my personal blog. The purpose of this blog is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
+This is my personal blog. The purpose of this blog is to share thoughts about things I find interesting or thought-provoking while I study.
 
-### Getting Started
+### About me : Interests
 
-This post will help you get started with installing Lagrange, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.
+I really enjoy learning new things. Things both relevant to me and things completely irrelevant (mostly tech stuff though). I would like to call this my favourite past-time.
+
+
+
+I have always been a very visual person. This interest of mine saw me through learning art, design, image processing, UI/frontend design, data visualization and finally computer vision. 
 
 
