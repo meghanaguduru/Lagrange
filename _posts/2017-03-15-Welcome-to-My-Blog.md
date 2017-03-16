@@ -14,6 +14,6 @@ This is my personal blog. The purpose of this blog is to provide a simple, clean
 
 ### Getting Started
 
-[Installation Guide]({{ site.github.url }}{% post_url 2015-12-12-Installation-Guide %}): this post will help you get started with installing Lagrange, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.
+This post will help you get started with installing Lagrange, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.
 
 
